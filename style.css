@@ -25,8 +25,7 @@ article{
     background-color: #ffffff;
     width: 60%;
     height: 1000px;
-    margin: 15px;
-    padding: 20px;
+    padding: 10px;
     box-sizing: border-box;
 }
 
@@ -34,7 +33,7 @@ article{
     background-color: #ffffff;
     width: auto;
     height: auto;
-    padding: 20px;
+    padding: 10px;
     float: right;
     overflow: auto;
 }
@@ -87,6 +86,7 @@ nav{
 main{
     background-color: #ffffff;
     width: 100%;
+    padding: 1%;
 }
 
 footer{
